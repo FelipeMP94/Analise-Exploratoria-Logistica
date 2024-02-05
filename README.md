@@ -1,1 +1,1 @@
-Praticando algoritimos de clusterização a partir de exercícios 
+Análise exploratótia em dados de uma cadeia logistica 
